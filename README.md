@@ -1,14 +1,18 @@
-# Hi, I'm Waleed
+# Code that works. Systems that scale. Work that matters.
 
-I'm a final-year Computer Science student at FAST University with practical experience in full-stack web and mobile development, automation, and quality assurance. I work across the MERN stack and Flutter, and I've built custom automations using Make.com, Google Apps Script, and Python.
+I’m Waleed — a full-stack developer engineering scalable solutions across web, mobile, and automation systems.
+
+With a foundation in both development and QA, I bring a cross-functional mindset to building clean, reliable software. From MERN-based dashboards and Flutter admin panels to Make.com and Google Apps Script automations, I’ve delivered real-world tools that solve real problems.
+
+Currently in my final year at FAST University, I focus on writing maintainable code, designing structured architectures, and contributing to projects that are built to last.
 
 ---
 
 ## 💻 Tech & Tools
 
-- **Web & App**: Laravel, React.js, Node.js, Express, MongoDB, React-Native, Flutter, Firebase 
+- **Web & App**: Laravel, React.js, Node.js, Express, MongoDB, React Native, Flutter, Firebase  
 - **Automation**: Make.com (Integromat), Google Apps Script, Python  
-- **QA & Testing**: Manual testing, Test case design, Regression testing, Selenium, Playwright
+- **QA & Testing**: Manual testing, Test case design, Regression testing, Selenium, Playwright  
 - **Others**: Git, Supabase, Postman, Vite, Firebase Auth & Storage
 
 ---
